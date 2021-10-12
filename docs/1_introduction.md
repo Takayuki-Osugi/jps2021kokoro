@@ -61,7 +61,7 @@ sort: 1 #サイドバーの順番
 
 **日本心理学会倫理規定**
 
-[公益社団法人日本心理学会 倫理規程 | 日本心理学会](https://psych.or.jp/publication/rinri_kitei/)
+[公益社団法人日本心理学会 倫理規程 日本心理学会](https://psych.or.jp/publication/rinri_kitei/)
 
 **日本基礎心理学会「基礎心理学研究者のための研究倫理ガイドブック」**
 
