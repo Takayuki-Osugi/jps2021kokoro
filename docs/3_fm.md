@@ -8,3 +8,5 @@ sort: 3 #サイドバーの順番
 
 ### 発表資料
 <script async class="docswell-embed" src="https://s.docswell.com/assets/libs/docswell-embed/docswell-embed.min.js" data-src="https://www.docswell.com/slide/KR2D25/embed?key=falsememory" data-aspect="0.5625"></script><div class="docswell-link"><a href="https://www.docswell.com/s/mk1124/KR2D25-falsememory">フォールスメモリ by @mk1124</a></div>
+
+執筆者：小林正法
