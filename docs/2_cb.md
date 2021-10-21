@@ -31,9 +31,9 @@ sort: 2 #サイドバーの順番
 
 以下の２つの条件を比べてみてください。
 
- <a href="./image/noblank.gif" target="_blank">ブランク画面なし条件</a>
+ <a href="./image/noblank.gif" target="_blank" rel="noopener noreferrer">ブランク画面なし条件</a>
 
- <a href="./image/blank.gif" target="_blank">ブランク画面あり条件</a>
+ <a href="./image/blank.gif" target="_blank" rel="noopener noreferrer">ブランク画面あり条件</a>
 
 
 このことから２つのことが分かります。
