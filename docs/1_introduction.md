@@ -10,10 +10,10 @@ sort: 1 #サイドバーの順番
 
 <a href="./demo/ws_kisoshin2021/" target="_blank" rel="noopener noreferrer">[体験デモはこちらをクリック]</a>（クリックすると実験が始まるので注意）
 
-<br>QRコード
+<p>QRコード
 <br>
 <image src = "./image/QR_860939.png">
-<br>
+</p>
 
 
 ## 1.1. 心理学で実験や調査を行う理由
