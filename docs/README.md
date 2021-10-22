@@ -21,10 +21,8 @@
 
 <a href="./demo/ws_kisoshin2021/" target="_blank" rel="noopener noreferrer">[体験デモはこちらをクリック]</a>（クリックすると実験が始まるので注意）
 
-<p>QRコード
-<br>
-<image src = "./image/QR_860939.png">
-</p>
+QRコード    
+<image src = "./image/QR_860939.png">    
 
 
 ## 講演者（順不同）
