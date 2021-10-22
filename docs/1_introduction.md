@@ -10,7 +10,8 @@ sort: 1 #サイドバーの順番
 
 <a href="./demo/ws_kisoshin2021/" target="_blank" rel="noopener noreferrer">[体験デモはこちらをクリック]</a>（クリックすると実験が始まるので注意）
 
-### QRコード
+<br>QRコード
+<br>
 <image src = "./image/QR_860939.png">
 
 

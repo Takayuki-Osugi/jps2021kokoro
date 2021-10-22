@@ -21,6 +21,10 @@
 
 <a href="./demo/ws_kisoshin2021/" target="_blank" rel="noopener noreferrer">[体験デモはこちらをクリック]</a>（クリックすると実験が始まるので注意）
 
+<br>QRコード
+<br>
+<image src = "./image/QR_860939.png">
+
 ## 講演者（順不同）
  * 大杉尚之（山形大学）[HP](http://tosugi2010.sakura.ne.jp/index.html)
  * 小林正法（山形大学）[HP](https://mklab.info/)
