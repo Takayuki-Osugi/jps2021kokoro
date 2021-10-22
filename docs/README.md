@@ -24,6 +24,8 @@
 <br>QRコード
 <br>
 <image src = "./image/QR_860939.png">
+<br>
+
 
 ## 講演者（順不同）
  * 大杉尚之（山形大学）[HP](http://tosugi2010.sakura.ne.jp/index.html)
